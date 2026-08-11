@@ -1,7 +1,7 @@
 ---
-part: intro
-title: "A new device"
-subtitle: When Steve Jobs announced the iPad, he wanted it to be better than a smartphone or a laptop at some key tasks...
+part: prologue
+title: "The Retro-Modern Daily Driver"
+subtitle: Proof that you don't need the latest M-series chip to build a futuristic workflow. Here is how an older iPad, backed by AI, became my #MainNostalgiaComputer2Go.
 ---
 
 * TOC (optional)
