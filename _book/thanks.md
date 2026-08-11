@@ -1,5 +1,5 @@
 ---
-part: intro
+part: thanks
 title: Thank you!
 subtitle: We dedicate this book to our families and our crew
 ---
