@@ -1,13 +1,21 @@
 ---
 part: intro
 title: Thank you!
-subtitle: We dedicate this book to our families
+subtitle: We dedicate this book to our families and our crew
 ---
 
-## Augusto:
+## Samuel:
 
-> To Alicia & Tomas who have a chance to understand #iPadOnly as children and most likely in a way that I never will. 
- 
-## Michael:
+> To my family, for supporting this crazy tech journey, and to my brothers in crime who made turning a vintage tablet into a lifestyle actually happen.
 
-> To my three daughters: Milena - the first completely #iPadOnly person I got to know, Emilia - who's becoming a true #iPadOnly artist and the youngest - Liliana - who's rocking my first 2010 iPad. Finally, to my wife - Ewelina - the prettiest #iPadOnly geek I know.
+## Aiden:
+
+> To my mother—who might not be the biggest fan of Apple products, but raised a filmmaker anyway—and to the crew for pulling me into this #MainNostalgiaComputer2Go adventure.
+
+## Lavar:
+
+> To my family, and to the boys, for proving that you don't need a heavy-duty rig or a strict travel itinerary to live a legendary life on an old iPad.
+
+## Lloyde:
+
+> To my family, and to everyone who refuses to take tech too seriously. May your dreadlocks stay locked, your shirts optional, and your #MainNostalgiaComputer2Go forever snappy.
