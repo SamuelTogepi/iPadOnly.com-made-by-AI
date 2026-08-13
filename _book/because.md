@@ -69,7 +69,7 @@ This radical focus changes everything. You quickly discover that your old, lazy 
 
 ---
 
-## The Mail Attachment pattern Shift
+## The Mail Attachment Pattern Shift
 
 Consider a simple, everyday annoyance: receiving an email where someone tells you to "see the attached document," only to realize they forgot to attach anything. You have to reply, point out the mistake, and wait for them to send a second email. Why does this happen constantly on desktop computers? Because traditional desktop operating systems force a fragmented workflow—you write the email body first, then remember to attach the file at the end.
 
