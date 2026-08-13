@@ -69,11 +69,11 @@ This radical focus changes everything. You quickly discover that your old, lazy 
 
 ---
 
-## The Mail Attachment Paradigm Shift
+## The Mail Attachment pattern Shift
 
 Consider a simple, everyday annoyance: receiving an email where someone tells you to "see the attached document," only to realize they forgot to attach anything. You have to reply, point out the mistake, and wait for them to send a second email. Why does this happen constantly on desktop computers? Because traditional desktop operating systems force a fragmented workflow—you write the email body first, then remember to attach the file at the end.
 
-The iPad enforces a smarter paradigm. 
+The iPad enforces a smarter pattern. 
 
 Instead, you open an app containing the content you want to share—whether it's Photos, Evernote, Dropbox, or a code snippet from **Zenith**. You tap the **Share** button, select mail, and compose your message with the file already attached. You begin with the *attachment*, then write the message around it. It sounds like a trivial distinction, but it represents a total inversion of old habits.
 
