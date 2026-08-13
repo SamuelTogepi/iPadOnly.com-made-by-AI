@@ -1,29 +1,27 @@
 ---
 part: one
-title: "Going #iPadOnly is a personal journey"
-subtitle: Change your paradigms and try something new
+title: "Doing the #MainNostalgiaComputer2Go challenge is a personal journey"
+subtitle: Change your workflow and try something new
 ---
 
-Most people are convinced that the iPad can only be used for ‘media consumption’. They miss the opportunity to change the paradigms that have them tied to their laptops.
+Most people are convinced that an iPad—especially a legacy or older model—can only be used for passive "media consumption." They completely miss the opportunity to shatter the old workflows that have chained them to heavy, bloated laptops. 
 
-In the early 90's, when the first laptops began to appear, many people didn't believe that they would ever be as powerful as desktops. The rest is history.
+In the early 1990s, when the first portable laptops began to appear, critics swore up and down that they would never be as powerful or practical as desktop towers. History proved them wrong. 
 
-In 2010 when the iPad was announced people didn’t believe that it would be powerful enough to replace and improve modern computing. History likes to repeat itself. Previously laptops were considered ‘underpowered’ but for several years now people have been choosing them instead of the big desktop computers. Today tablets like the iPad are in more households than ever before and people are discovering that they can do much more with them.
+When the iPad was announced in 2010, skeptics scoffed again, claiming it could never replace or improve modern computing. History loves to repeat itself. For years now, laptops have completely usurped massive desktop computers in most households. Today, tablets are everywhere, and users are waking up to the reality that they can accomplish vastly more than conventional wisdom suggests.
 
-We see people discovering that their iPad can be so much more than just a companion device. People are beginning to wonder if they can, like us, go #iPadOnly. On the other hand, they keep telling us that ‘this or that can't be done on the iPad’. We discovered that almost every job can be done on the iPad, but perhaps a bit differently than on a regular PC.
+People are starting to realize their iPad is so much more than a secondary companion device for watching videos in bed. They are beginning to wonder if they can follow our path and transition entirely to the `#MainNostalgiaComputer2Go` lifestyle. Of course, they still try to argue that *"you just can't do [insert complex task] on an iPad."* But we've discovered that almost any job can be done on a vintage tablet; it just requires a different approach than a traditional PC.
 
-This book was written using only our iPads. Augusto has written more than eight books on his iPad. He has also used his iPad to help manage sales in the US, Canada and Latin America. He consulted and helped companies change their sales, and provided marketing and product development to generate growth - again using only his iPad. Augusto jumped to his iPad looking for a more dynamic portable work environment, and quickly discovered that he could do so much on this new platform.
+This book was written using only our iPads. I (Samuel Charlie Bowers) built and coded **Zenith**—my native iOS app and web application designed to be the ultimate Notion and Nozbe killer—right here from an older iPad. 
 
-Michael is writing, coding and leading his team as the CEO of Nozbe. He also, is only using his iPad. When Michael wanted to simplify his setup and become more mobile he switched to the iPad. As a productivity guy, he was curious to learn if the app-revolution and post-PC era were really true. Via #iPadOnly, he's busy running a very successful time and project management application (with a team of 15 people); he's the editor of the Productive! Magazine and he’s a blogger.
+We aren't alone, and we certainly aren't the only ones pushing this boundary. The core crew behind this book—Samuel, Aiden, Lavar, and Lloyde—all approach productivity and life through entirely different lenses, yet we've all converged on the `#MainNostalgiaComputer2Go` philosophy. 
 
-We're not alone nor are we that special. Like Augusto and Michael, many people are using their iPads as their main machines. Many stopped using their old laptops and desktops and are changing how they do things. What you will find here is not just one way, but two examples of how to use your iPad as the main machine. We share a passion for productivity but we do different things for a living and we each approached the #iPadOnly process in our own way.
+Getting to `#MainNostalgiaComputer2Go` is an intensely personal journey. You might start by doing only 10% of your daily tasks on your retro iPad, but gradually, your mindset shifts. You'll stop viewing the glass as a mere tool for consumption and start loving it as a canvas for creation. We hope this book sparks ideas and acts as a compass for your own transition.
 
-Getting to #iPadOnly is a personal journey. You might start with only a fraction of the time working on the iPad but gradually you'll see how this will change and you'll start loving your iPad not just for ‘consuming content’ but also for creating it. We hope you will find many ideas in this book and it will guide you through your own #iPadOnly journey.
+The iPad is not a PC. It’s so much more.
 
-The iPad is not a PC. It's so much more.
+From our collective perspective, the hardest challenge in adopting the `#MainNostalgiaComputer2Go` lifestyle is breaking open your old habits and rebuilding your workflows from scratch. People always make the mistake of trying to force an iPad to behave like a Mac or a Windows PC. At first glance, iOS constraints feel restrictive, but those limitations are actually blessings in disguise. They force you to re-examine how you operate, strip away digital clutter, and radically simplify your day.
 
-In Augusto's opinion the hardest challenge to work #iPadOnly is to be open to rebuilding your old habits and workflows. Michael shares Augusto's view, highlighting that many people want to configure the iPad the same way as they did their PC or Mac. At first iPad seems like a very limited computing experience, but later these limitations come as blessings in disguise. They force us to re-examine our way of operating and to totally rebuild our workflows, and most of all – to simplify and improve them.
+The real danger with habits and workflows is that they become invisible over time; you perform them mindlessly without realizing how much friction they add to your life. Confronting them and forcing yourself to change might be the toughest hurdle on the path to `#MainNostalgiaComputer2Go`. Almost every time we forced a workflow change, it resulted in a massive productivity boost. And even on the rare occasions it didn't, simply becoming conscious of a redundant habit was worth the exercise.
 
-The problem with workflows and habits is that they quickly become invisible; you simply don't notice that they even exist. Confronting them and being willing to change them might be one of the hardest challenges you will find on the journey to #iPadOnly. In our experience most of those changes create an improvement on the conditions that existed before. But even on those rare occasions in which they don't, simply becoming conscious of a habit or a workflow is worth the exercise.
-
-The most interesting and unexpected thing while we wrote this book was the fact that the workflows that we believed to be solid and set, have been evaluated and reconsidered. We have learned new things from one other, evolved in the use of our machines, and without a doubt convinced ourselves even more that #iPadOnly is the way!
+The most exciting and unexpected part of writing this book together was watching our supposedly "bulletproof" workflows get dismantled and rebuilt. Through late-night chats, Aiden dropping cinematic analogies, Lavar laughing at our financial gambles, and Lloyde running around shirtless making weird sound effects, we learned from each other, evolved our machines, and convinced ourselves beyond a shadow of a doubt: running your life on a legacy iPad via `#MainNostalgiaComputer2Go` is the absolute best way forward.
